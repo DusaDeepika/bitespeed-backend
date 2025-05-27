@@ -49,7 +49,7 @@ PORT=8000
 4.Start the server:
 npm start
 Server will start on:
-http://localhost:8000
+ https://dusadeepika-bitespeed-backend.onrender.com
 
 
 ## 📨 API Usage
