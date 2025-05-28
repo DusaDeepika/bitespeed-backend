@@ -25,7 +25,7 @@ The system stores contact information such as emails and phone numbers. When a n
 ## 🛠 Tech Stack
 
 - **Backend:** Node.js, Express.js
-- **Database:** MySQL
+- **Database:** TiDB cloud for database 
 - **Deployment:** Render
 - **Other Tools:** dotenv, CORS
 
